@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from './SuggestedUsers.module.css'
+import styles from './suggestedUsers.module.css'
 
 const SuggestedUsers = () => {
 	return <div>SuggestedUsers</div>
